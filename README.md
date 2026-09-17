@@ -9,6 +9,6 @@
 ## Required Packages
 pandas, numpy, polars, matplotlib
 
-## Running the Code:
+## Running the Code
 Please run Main.ipynb first. This notebook processes the data and generates the output files in the Results.
 Afterward, run Figures.ipynb to generate the visualizations using the output files created in Results.
